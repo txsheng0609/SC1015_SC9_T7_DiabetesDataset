@@ -25,10 +25,11 @@ Data Dictionary: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.
 - Splitted dataset into 80% for training and 20% for testing
 - Normalisation not required since the dataset from Kaggle has been normalised
 ### 3. Exploratary Data Analysis
-Univariate
-- Explored the distrribution of each variables
-Multivariate
-- Explored relationship of each variables vs `diabetes`
+Univariate  
+- Explored the distribution of each variables  
+
+Multivariate  
+- Explored relationship of each variables vs `Diabetes`
 - Removed outliers based on `BMI`
 ### 4. Model Training
 The following supervised classification machine learning models were trained on the train dataset:
