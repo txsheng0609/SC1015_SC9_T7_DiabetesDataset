@@ -1,6 +1,9 @@
 # SC1015 Data Science Project: Factors affecting Diabetes
 ## About
 ## Problem Defination
+Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Having diabetes also increases the risk of many complications such as cardiovascular disease and kidney damage. Detecting diabetes early can help pave the way for effective treatment, highlighting the importance of knowing what factors are strongly associated with diabetes. Hence, predictive models for diabetes risk are important tools for the public and public health officials. This leads us to our problem question: 
+
+**"What are the most important factors in predicting whether a person has diabetes?"**
 ## Libraries and Models
 - Numpy
 - Pandas
