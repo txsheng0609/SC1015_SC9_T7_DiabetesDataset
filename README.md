@@ -1,4 +1,4 @@
-# SC1015 Data Science Project: Factors Affecting Diabetes
+# SC1015 Data Science Project: Factors Affecting Diabetes 
 ![COVERRRR](https://user-images.githubusercontent.com/104262490/164909829-55d3c276-c0ce-42ca-809a-feec9e914ae6.png)
 
 ## About
