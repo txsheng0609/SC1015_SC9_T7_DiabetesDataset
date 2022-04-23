@@ -3,7 +3,7 @@
 ![Cover page](https://user-images.githubusercontent.com/104262490/164896985-715b7df6-a1da-4f61-86e4-5b50d9f3d8c6.png)
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on one of the most prevalent chronic diseases, **Diabetes**. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on one of the most prevalent chronic diseases, **Diabetes**. For detailed walkthrough, please view the source code in order here (#Setup and Process):
 
 ## Problem Defination
 Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Having diabetes also increases the risk of many complications such as cardiovascular disease and kidney damage. Detecting diabetes early can help pave the way for effective treatment, highlighting the importance of knowing what factors are strongly associated with diabetes. Hence, predictive models for diabetes risk are important tools for the public and public health officials. This leads us to our problem question: 
